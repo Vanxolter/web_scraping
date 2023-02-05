@@ -1,1 +1,6 @@
-# web_scraping
+Парсер
+========
+
+About
+-----
+Author: Maksim Laurou <Lavrov.python@gmail.com>
